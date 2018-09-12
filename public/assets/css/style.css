@@ -1,0 +1,34 @@
+.imageDiv {
+    text-align:center;
+    height: 35vh;
+}
+.list {
+    /* display: none; */
+    background-color: rgba(256,256,256,0.9);
+    width: 30vw;
+    padding: 30px;
+    margin-bottom: 20px;
+    float:right;
+}
+ul {
+    list-style:none;
+}
+li {
+    margin-bottom: 10px;
+}
+.wrapper {
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    height: 65vh;
+    text-align:center;
+    padding: 30px;
+}
+form {
+    padding: 30px;
+    background-color: rgba(256,256,256, 0.9);
+    width: 30vw;
+    float:left;
+}
+h2 {
+    margin-top: 0px;
+}
